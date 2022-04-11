@@ -10,7 +10,8 @@
     "sequelize": "^6.18.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "name": "tech_blog",
   "version": "1.0.0",

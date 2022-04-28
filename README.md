@@ -12,6 +12,7 @@
 
 ## Description
 🔍 An application that allows users to post their thoughts, comment on other posts about anything tech related!
+Heroku link: https://tech-news-center.herokuapp.com/
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
